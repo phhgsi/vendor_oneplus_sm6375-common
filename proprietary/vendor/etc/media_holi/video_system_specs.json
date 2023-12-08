@@ -85,7 +85,7 @@
             //MULTIMEDIA.MEDIASERVER.PLAYER.bugfix 5064336,2023/01/31,App background freeze function optimization
             //"max_retry_alloc_output_timeout": 0,
             //#else OPLUS_BUG_COMPATIBILITY
-            "max_retry_alloc_output_timeout": 2000,
+            "max_retry_alloc_output_timeout": 0,
             //#endif OPLUS_BUG_COMPATIBILITY
             // override default primaries to BT709 for >=UHD decode
             "default_primaries_override" : 0,
